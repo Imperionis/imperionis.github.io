@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Napoleonic-Wars', // Usually your GitHub org/user name.
   projectName: 'Napoleonic-Wars.github.io', // Usually your repo name.
-  deploymentBranch: 'deployment',
+  deploymentBranch: 'master',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
